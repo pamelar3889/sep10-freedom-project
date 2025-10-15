@@ -1,7 +1,8 @@
-# Entry 1
-##### X/X/XX
+# Entry 1 : Deciding a topic (Automotive)
+##### 10/15/25
 
-Text
+How did I choose my topic?
+
 
 [Next](entry02.md)
 
