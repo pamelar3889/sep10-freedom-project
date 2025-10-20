@@ -12,7 +12,7 @@ Topic: **Automotive**
   * [tekmetric](https://www.tekmetric.com/)
   * [intellias](https://intellias.com/automotive/)
 
-[ceramic pieces for automobile](https://academic.eb.com/levels/collegiate/article/automotive-ceramics/108322)
+
 ## Part B: possible future technology
 * Idea
   * Detail
