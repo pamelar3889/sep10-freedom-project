@@ -21,8 +21,14 @@ Topic: **Automotive**
 * Scroll down and theres options for common electrical parts
 * 'whats the point of turning your cars mechanical power to electrical'
 * https://gtimportsautorepair.com/the-importance-of-your-electrical-system/
+* 'devices used in automotive engineering'
+* [Semiconducter devices for automobiles](https://www.advancedmanufacturing.org/manufacturing-engineering/semiconductor-devices-for-automobiles/article_2c866e98-0618-11ef-bc36-934710c8a1c3.html)
+* 'physical devices used in automotive industry'
+* first website was a list of automotive machinery used in auto shops with one of the visible listings being 'electronic  diagnostic equipment.
+* 'electronic diagnostic equipment
+* [Diagnostic tools](https://autel.us/product-category/diagnostic-tools/)
+* Each version you click gives you a description of a device and its usage
 * 
-
 ## Part B: possible future technology
 * Idea
   * Detail
