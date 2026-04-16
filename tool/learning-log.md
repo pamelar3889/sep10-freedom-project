@@ -18,3 +18,10 @@
 * Questions you still have
 * What you're going to try next
 -->
+
+
+
+
+4/16/26
+
+ https://bulma.io/documentation/layout/hero/
