@@ -26,7 +26,7 @@
 
  https://bulma.io/documentation/layout/hero/
 
-    Today I learned how to create different hero banners with titles and subtitles as well as discovering that if you wanted to you could customize the subtitle and the title differently because they have different classes and you could give them different fonts, different colors, and different sizes. You can also give the entire banner a different colored background if you use a different class like class="hero-is-danger" which turns the banner pink and class="hero-is-success" which turns the banner green. 
+    Today I learned how to create different hero banners with titles and subtitles as well as discovering that if you wanted to you could customize the subtitle and the title differently because they have different classes and you could give them different fonts, different colors, and different sizes. You can also give the entire banner a different colored background if you use a different class like class="hero-is-danger" which turns the banner pink and class="hero-is-success" which turns the banner green.  
 
 
 
