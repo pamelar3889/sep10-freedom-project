@@ -4,10 +4,10 @@
 * Statistic about how many people own a car/know how to fix one
 
 ## Product
-*
+* Link to Product. Show all parts of the Project and explain.
 
 ## Process
-*
+* Talk about how/what you reasearched,
 
 ## Conclusion
 *
