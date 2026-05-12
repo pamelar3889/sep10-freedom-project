@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Statistic about 
+* Statistic about how many people own a car/know how to fix one
 
 ## Product
 *
