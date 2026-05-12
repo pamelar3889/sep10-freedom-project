@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Statistic about 
 
 ## Product
-* 
+*
 
 ## Process
-* 
+*
 
 ## Conclusion
-* 
+*
 
 <!-- EXAMPLE
 
