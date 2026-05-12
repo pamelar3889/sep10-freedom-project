@@ -7,10 +7,10 @@
 * Link to Product. Show all parts of the Project and explain.
 
 ## Process
-* Talk about how/what you reasearched for part A, and the thought proccess or inspirations for Part B. Show code snippets for the actual website and 
+* Talk about how/what you reasearched for part A, and the thought proccess or inspirations for Part B. Show code snippets for the actual website and the Wireframe and talk about struggles during the coding proccess.
 
 ## Conclusion
-*
+* Takeaways:
 
 <!-- EXAMPLE
 
