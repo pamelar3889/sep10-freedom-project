@@ -1,18 +1,6 @@
 # Presentation Plan
 
-## Hook
-* Statistic about how many people know to fix a car
 
-## Product
-* Link to Product. Show all parts of the Project and explain.
-
-## Process
-* Talk about how/what you reasearched for part A, and the thought proccess or inspirations for Part B. Show code snippets for the actual website and the Wireframe and talk about struggles during the coding proccess.
-
-## Conclusion
-* Takeaways:
-* Persistence is key. It might take a while to fully familiarize yourself with your tool.
-* Timing. Set strict deadlines: dont procrastinate, set reminders and alarms.
 
 <!-- EXAMPLE
 
