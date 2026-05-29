@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Statistic about how many people own a car/know how to fix one
+* Statistic about how many people know to fix a car
 
 ## Product
 * Link to Product. Show all parts of the Project and explain.
@@ -11,11 +11,8 @@
 
 ## Conclusion
 * Takeaways:
-*
-*
-*
-*
-* 
+* Persistence is key. It might take a while to fully familiarize yourself with your tool.
+* Timing. Set strict deadlines: dont procrastinate, set reminders and alarms.
 
 <!-- EXAMPLE
 
